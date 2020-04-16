@@ -72,7 +72,7 @@ const Feed = () => {
         );
       })}
       {notification && (
-        <TweetNotification isActive={notification} action={setNotification} />
+        <TweetNotification action={setNotification} />
       )}
       {loading && <Loader />}
       {error && <Error content={error} />}
