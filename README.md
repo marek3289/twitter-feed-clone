@@ -1,12 +1,12 @@
 <h3 align="center">
-This app is simple clone of Twitter Feed. App is created using React and Firebase 
+Simple clone of Twitter Feed. App is created using React and Firebase 
 </h3>
 
 <br>
 
 <p align="center">
    <a href="https://ibb.co/XDyT97d">
-     <img src="https://i.ibb.co/vhs8b3r/twitter-feed-clone.png" alt="twitter-feed-clone" border="0" />
+     <img src="https://i.ibb.co/vhs8b3r/twitter-feed-clone.png" alt="twitter-feed-clone" />
   </a>
 </p>
 
