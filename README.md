@@ -5,9 +5,7 @@ Simple clone of Twitter Feed. App is created using React and Firebase
 <br>
 
 <p align="center">
-   <a href="https://ibb.co/XDyT97d">
-     <img src="https://i.ibb.co/vhs8b3r/twitter-feed-clone.png" alt="twitter-feed-clone" />
-  </a>
+   <img src="https://iv.pl/images/96d715cdd3df19fe925ad3a9002a6fd1.png" alt="twitter-feed-app" border="0" />
 </p>
 
 <br>
